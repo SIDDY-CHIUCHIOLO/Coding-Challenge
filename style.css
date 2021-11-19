@@ -1,0 +1,82 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url(immagini/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container{
+  width: 850px;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  margin-top:30px;
+  border-radius: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  padding-bottom: 20px;
+}
+
+header{
+  color: rgb(43,224,2);
+  text-align: center;
+}
+
+.logo{
+  width: 180px;
+  padding-top: 60px;
+}
+
+nav{
+  background-color: rgb(43,224,2);
+  padding: 10px;
+  margin-left: 10%;
+  margin-right:10%;
+  text-align: center;
+}
+
+button{
+  padding: 3px;
+}
+
+main{
+  margin-left: 10%;
+  margin-right:10%;
+  font-size: 13px;
+}
+
+main h3{
+  display: inline-block;
+  padding-top: 15px;
+}
+
+#Monopattino-Gino22{
+    background-color: rgb(255,191,71);
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 60%;
+    color: rgb(255,191,71);
+    height: 15px;
+}
+
+#Monopattino-Mike24 {
+    background-color: rgb(43,224,2);
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 40%;
+    color: rgb(43,224,2);
+    height: 15px;
+  }
+
+#Monopattino-Fedel124 {
+    background-color: rgb(191,50,80);
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 80%;
+    color: rgb(191,50,80);
+    height: 15px;
+}
